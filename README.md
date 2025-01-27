@@ -41,9 +41,12 @@ Spotify:
 - User specific playlists (daily mix, genre mix, daylist)
 - Integration with other applications (discord, imessage, etc)
 
+App Ideas:
+I would like to build an app that combines concepts similar to Spotify and Imessage, where users can listen and discuss music in real time. The UI would be a mix of both, where users could join a listening party with a live chat or multiple chats to discuss thoughts on music or podcasts. All users can host their own live chats and choose the music playing, like a DJ almost. Users can pin their favorite users to listen to on the home page, and have a separate page with ready made playlists to play in the listening party app.
+
 ## Notes
 
-There were some difficulties with finding the story board file and adjusting editor options, but everything was relatively simpler after watching a few UI tutorials. .
+There were some difficulties with finding the story board file and adjusting editor options, but everything was relatively simpler after watching a few UI tutorials. 
 
 ## License
 
